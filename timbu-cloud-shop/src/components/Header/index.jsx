@@ -1,4 +1,5 @@
 import React from "react";
+import '.Header'
 
 export default function Header() {
 	return (
@@ -7,4 +8,4 @@ export default function Header() {
 		</div>
 	);
 }
-i HTMLAreaElement
+ HTMLAreaElement
