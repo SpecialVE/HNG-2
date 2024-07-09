@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# timbu-cloud
+# TechDepot
 Hi there!
 My name is victory special emmanuel.
 I'm an intern at the HNG 11 internship.
